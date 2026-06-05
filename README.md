@@ -87,11 +87,11 @@ A smart public safety system designed to strengthen security during night hours 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ya386&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashasvi1307&show_icons=true&theme=radical" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ya386&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvi1307&theme=radical" />
 
 </div>
 
@@ -101,7 +101,7 @@ A smart public safety system designed to strengthen security during night hours 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ya386&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasvi1307&theme=react-dark" />
 
 </div>
 
@@ -110,7 +110,7 @@ A smart public safety system designed to strengthen security during night hours 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ya386/ya386/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yashasvi1307/yashasvi1307/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
