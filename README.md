@@ -87,11 +87,11 @@ A smart public safety system designed to strengthen security during night hours 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashasvi1307&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/apiusername=yashasvi1307&show_icons=true&theme=radical&count_private=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvi1307&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=yashasvi1307&theme=radical" />
 
 </div>
 
