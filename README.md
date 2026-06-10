@@ -4,7 +4,7 @@
 
 # 🌟 Hey there, I'm Yashasvi Singh
 
-### 🧠 Creative Developer | Tech Enthusiast | Future Innovator
+### 🧠 Creative Developer  | Tech Enthusiast | Future Innovator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Real+Projects;Exploring+AI+and+Smart+Systems;Building+Technology+for+Safety;Learning+Something+New+Every+Day" />
 
